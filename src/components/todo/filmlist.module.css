@@ -1,0 +1,60 @@
+.container {
+        width: 800px;
+        height: 450px;
+        background-color: white;
+        display: flex;
+        border-radius: 10px;
+        margin-left: 250px;
+        margin-top: 30px;
+    
+}
+
+
+.box {
+    display: flex;
+    flex-direction: column;
+
+}
+
+
+.film {
+    color: red;
+    font-family: cursive;
+    margin-left: 100px;
+
+}
+
+
+.rating {
+    color: black;
+    background-color:mediumvioletred;
+    background-size: auto;
+    font-family: cursive;
+    display: flex;
+    justify-content: center;
+    border-radius: 15px;
+    margin-left: 100px;
+
+}
+
+
+.genre {
+    color: black;
+    background-color: mediumspringgreen;
+    background-size: auto;
+    font-family: cursive;
+    display: flex;
+    justify-content: center;
+    border-radius: 15px;
+    margin-left: 100px;
+
+}
+
+
+.image {
+    width: 250px;
+    height: 350px;
+    border-radius: 10px;
+    margin-left: 15px;
+    margin-top: 15px;
+}

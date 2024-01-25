@@ -1,0 +1,39 @@
+.title {
+    color: white;
+    font-family: monospace;
+    font-size: 33px;
+    margin-left: 550px;
+
+}
+
+
+.input {
+    color: white;
+    background-color: black;
+    width: 500px;
+    height: 30px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 385px;
+    margin-top: 10px;
+    border: 1px solid;
+    border-color: silver;
+    border-radius: 5px;
+
+}
+
+
+.add {
+    color: black;
+    background-color: white;
+    width: 200px;
+    height: 30px;
+    font-family: monospace;
+    margin-left: 670px;
+    margin-top: 15px;
+    border: none;
+    border-radius: 5px;
+    
+}
+
+
